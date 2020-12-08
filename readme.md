@@ -8,7 +8,7 @@
 5. Run `npm install` in your terminal.
 6. Run `php artisan migrate` in your terminal.
 7. Run `php artisan serve` in your terminal.
-8. Open browser and go to http://localhost:8000
+8. Open browser and go to http://localhost:8000/register
 
 ## How it workds
 1. Go to register and create a new account.
