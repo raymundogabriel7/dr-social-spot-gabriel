@@ -1,21 +1,16 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg" height="60"> <img src="https://vuejs.org/images/logo.png" height="60"></p>
 
-## About Repository
+## Installation
+1. Clone the repository.
+2. Copy .env and change the DB settings.
+3. Create a database and name it based on your env file `DB_DATABSE` variable.
+4. Run `composer install` in your terminal.
+5. Run `npm install` in your terminal.
+6. Run `php artisan migrate` in your terminal.
+7. Run `php artisan serve` in your terminal.
+8. Open browser and go to http://localhost:8000
 
-In this repository, you will get the working application of Laravel + Vue Js + JWT Auth.
-
-You can read the following articles for better understanding.
-
-https://codebriefly.com/laravel-jwt-authentication-vue-ja-spa-part-1/
-
-https://codebriefly.com/laravel-jwt-authentication-vue-js-spa-part-2/
-
-## About codebriefly.com
-
-<p align="center"><img src="https://codebriefly.com/wp-content/uploads/2018/01/logo.svg" alt="CodeBriefly"></p>
-
-You can check our site Code Briefly (https://codebriefly.com/) for more intersting tutorials and resources. We are trying our best to to provide valuable resources and tutorials. Also you can submit guest post and resorces on our site (https://codebriefly.com/join-us/).
-
-Please feel free to send any suggestion or query to us (https://codebriefly.com/contact-us/).
-
-:smiley:
+## How it workds
+1. Go to register and create a new account.
+2. Go to login and use your correct credentials
+3. You can edit you Profile or add new Post in Newsfeed.
